@@ -1,6 +1,6 @@
 # Reinforcement-Learning-based-Cartpole-Game-Player
 
-## CartPole, also known as inverted pendulum, is a game in which you try to balance the pole as long as possible. It is assumed that at the tip of the pole, there is an object which makes it unstable and very likely to fall over. The goal of this task is to move the cart left and right so that the pole can stand (within a certain angle) as long as possible.
+### CartPole, also known as inverted pendulum, is a game in which you try to balance the pole as long as possible. It is assumed that at the tip of the pole, there is an object which makes it unstable and very likely to fall over. The goal of this task is to move the cart left and right so that the pole can stand (within a certain angle) as long as possible.
 
 
 ![Reinforcement Learning based Cartpole Game Player](https://user-images.githubusercontent.com/62755670/121870330-922cf700-cd20-11eb-99d5-c38819682385.gif)
